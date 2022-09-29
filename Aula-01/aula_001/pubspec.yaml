@@ -56,8 +56,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - D:\Pastas Area de trabalho\UTFPR- MATERIAS\5 perido\Mobile\Aulas\flutter-lessons\Aula-01\aula_001\images
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
